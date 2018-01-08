@@ -1,6 +1,6 @@
 NOTE: All Sponsorship perks will only happen once invoice is clear.
 
-## High Level (Rose Gold) limit 6
+## Rose Gold (limit 6 sponsors)
 * 50.000 sek
 * Logo on conference website, social media announcement, individual thank you.
 * 6 tickets
@@ -8,17 +8,17 @@ NOTE: All Sponsorship perks will only happen once invoice is clear.
 * Short promo spot on the main stage (2x, 1 each day.)
 * Opportunity to be the Dinner/Evening Sponsor. 
 
-## Mid-level limit 6
+## Titanium (limit 6)
 * 30.000 sek
 * Logo on conference website, social media announcement.
 * 4 tickets
 * Small standing table.
 
-## Base limit no limit
+## Space Grey (no limit)
 * 10.000 sek
 * Logo on conference website, social media announcement.
 * 2 free tickets 
-* Can leave things in the FFA-area.
+* Can leave things in the FFA (free-for-all)-area.
 
 # Extras:
 ## Community / Media
@@ -27,3 +27,6 @@ NOTE: All Sponsorship perks will only happen once invoice is clear.
 ## Dinner/Evening/Afterwork Sponsors
 * ?? price. Ask organisers for more information!
 * Special Swag placement opportunity!
+
+# Free Tickets
+Companies will have the opportunity that if they do not need or want to use all the tickets given to them to put them towards the community!
