@@ -30,6 +30,7 @@
 * Special Swag placement opportunity
 
 <div style="page-break-after: always;"></div>
+
 ## Other Information
 ### Venue Information
 The conference will take place at the lovely Nalen, situated in central Stockholm.
